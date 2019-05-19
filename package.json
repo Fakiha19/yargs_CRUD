@@ -1,0 +1,18 @@
+{
+  "name": "ap_assignment",
+  "version": "1.0.0",
+  "description": "CRUD App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Fakiha",
+    "Mumtaz"
+  ],
+  "author": "Fakiha Mumtaz",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
